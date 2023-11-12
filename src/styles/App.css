@@ -1,1 +1,19 @@
-
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+header{
+    color:white;
+    background-color: gray;
+    display: flex;
+    justify-content: space-between;
+}
+.info{
+    display: flex;
+    justify-content: space-between;
+}
+.no_data{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 15px;
+}
