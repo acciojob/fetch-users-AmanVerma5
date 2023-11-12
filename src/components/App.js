@@ -32,7 +32,7 @@ const App = () => {
           <div>Avatar</div>
         </header>
         {
-          loading?<div className="no_data">No data found to be displayed.</div>:<DisplayInfo arr={data}/>
+          loading?<div className="no_data">No data found</div>:<DisplayInfo arr={data}/>
         }
       </div>
     </div>
