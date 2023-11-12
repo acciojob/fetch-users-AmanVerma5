@@ -23,7 +23,7 @@ const App = () => {
       <div >
         <div className="header">
           <h4>Blue Whales</h4>
-          <button className=".btn" onClick={fetchData}>Get User List</button>
+          <button className='.btn' onClick={fetchData}>Get User List</button>
         </div>
         <header>
           <div>First name</div>
